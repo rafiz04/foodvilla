@@ -1,0 +1,47 @@
+.orange{
+    color: orange;
+}
+section{
+    display: flex;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+h1{
+    font-size: 60px;
+}
+.image-width{
+    width: 90%;
+}span img{
+    width: 60%;   
+}
+.hiring{
+    text-decoration: none;
+    background-color :black;
+    padding: 10px 40px;
+    background-image: linear-gradient(white, salmon);
+    font-weight: bolder;
+}
+.image-width2{
+    width: 70%;
+}
+.background-banner{
+    background-image: url(images/7.png);
+    margin: 0%;
+}
+.align{
+    text-align: center;
+}
+#shadow-box{
+    box-shadow: grey  2px 2px 2px 2px ;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+}
+.image-width3{
+    width: 100%;
+}
+.footer-add{
+    text-align: center;
+}
