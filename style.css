@@ -45,3 +45,12 @@ h1{
 .footer-add{
     text-align: center;
 }
+.last-text{
+    color: tomato;
+}
+.down-text{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 200px;
+}
